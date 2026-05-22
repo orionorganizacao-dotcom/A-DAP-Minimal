@@ -2,8 +2,10 @@
   {
     "decision_id": "A001",
     "file": "example_decision.json",
+    "decision_hash": "AUTO_GENERATED",
     "hash_algorithm": "SHA-256",
     "timestamp": "2026-05-22T09:41:00Z",
-    "status": "committed"
+    "status": "committed",
+    "verification_status": "pending"
   }
 ]
