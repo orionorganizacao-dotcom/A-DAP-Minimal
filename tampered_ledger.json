@@ -1,0 +1,9 @@
+[
+  {
+    "decision_id": "A002",
+    "file": "example_decision.json",
+    "hash_algorithm": "SHA-256",
+    "timestamp": "2026-05-22T09:41:00Z",
+    "status": "committed"
+  }
+]
