@@ -1,8 +1,8 @@
 {
   "decision_id": "A001",
-  "timestamp": "2026-05-22T09:35:00Z",
-  "agent": "A-DAP-Minimal",
-  "decision": "Approve medical triage recommendation",
-  "confidence": 0.91,
-  "reasoning_reference": "Decision envelope v1"
+  "timestamp": "2026-05-22T09:41:00Z",
+  "action": "approve_transaction",
+  "input_reference": "request_8472",
+  "reasoning": "Transaction approved according to predefined rules",
+  "decision_hash": "AUTO_GENERATED"
 }
